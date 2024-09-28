@@ -20,4 +20,8 @@ For each topic share production-grade examples and explanations with follow-up t
 
 https://chatgpt.com/c/66f5922e-5c2c-8004-8a74-1b91df197171
 
+4:  Understanding of  block chain and Web3.0
+
+https://chatgpt.com/c/66f7ef10-9660-8004-b4ea-0127ac3b8aa6
+
 
